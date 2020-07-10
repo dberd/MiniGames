@@ -1,0 +1,10 @@
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\bin\Debug\Kurs1.exe.config
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\bin\Debug\Kurs1.exe
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\bin\Debug\Kurs1.pdb
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.csprojAssemblyReference.cache
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.Properties.Resources.resources
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.csproj.GenerateResource.cache
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.exe
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.pdb
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.FormMain.resources
+C:\Users\Sergei\Desktop\Kursovaya\Kurs1\obj\Debug\Kurs1.FormDurK.resources
